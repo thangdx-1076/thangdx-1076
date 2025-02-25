@@ -15,4 +15,5 @@ Feel free to connect if you're interested in discussing technology or potential 
 
 **Contact:**
 - Email: dangxuanthangqt@gmail.com
+- Phone: 0397906999
 - LinkedIn: [Dang Xuan Thang](https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-xu%C3%A2n-th%E1%BA%AFng-9321251b0)
