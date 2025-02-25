@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]!
+# Hi there, I'm Dang Xuan Thang!
 
 I'm a passionate software engineer with a focus on creating robust and innovative solutions. Currently, I'm exploring and working with the following technologies:
 
