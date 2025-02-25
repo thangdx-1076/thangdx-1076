@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @thangdx-1076
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm [Your Name]!
 
-<!---
-thangdx-1076/thangdx-1076 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software engineer with a focus on creating robust and innovative solutions. Currently, I'm exploring and working with the following technologies:
+
+- **Frontend:**
+  - React ⚛️  
+  - Next.js ⚡ 
+- **Backend:**
+  - Node.js 🌲  
+  - Express 🚂
+  - Nestjs
+
+
+Feel free to connect if you're interested in discussing technology or potential collaboration.
+
+**Contact:**
+- Email: dangxuanthangqt@gmail.com
+- LinkedIn: [Dang Xuan Thang](https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-xu%C3%A2n-th%E1%BA%AFng-9321251b0)
