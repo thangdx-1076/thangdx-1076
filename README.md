@@ -28,13 +28,6 @@ I'm a passionate software engineer with a focus on creating robust and innovativ
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
-### 📚 Github Status
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangdx-1076&layout=compact&theme=tokyonight&langs_count=6" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=thangdx-1076&show_icons=true&theme=tokyonight" height="165">
-</p>
-
 Feel free to connect if you're interested in discussing technology or potential collaboration.
 
 **Contact:**
