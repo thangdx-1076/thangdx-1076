@@ -31,7 +31,7 @@ I'm a passionate software engineer with a focus on creating robust and innovativ
 Feel free to connect if you're interested in discussing technology or potential collaboration.
 
 **Contact:**
-- Email: thangdx-1076@gmail.com
+- Email: dangxuanthangqt@gmail.com
 - Phone: 0397906999
 - LinkedIn: [Dang Xuan Thang](https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-xu%C3%A2n-th%E1%BA%AFng-9321251b0)
 
